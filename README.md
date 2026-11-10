@@ -1,23 +1,29 @@
-# Abi Nugroho
+<p align="center">
+  <img src="./assets/coding-desk.webp" width="100%" alt="Ilustrasi pixel art meja coding di depan jendela dengan pemandangan Jakarta saat hujan">
+</p>
 
-**Mahasiswa · Pengembangan aplikasi web**
+<h1 align="center">Halo, saya Abi Nugroho</h1>
 
-Saya mengembangkan aplikasi web untuk mengelola tugas, dokumen, dan data operasional. Dalam proyek-proyek ini, saya mengerjakan antarmuka responsif, alur autentikasi, dan pengelolaan data.
+<p align="center"><strong>Mahasiswa · Pengembangan aplikasi web</strong></p>
+
+## Tentang saya
+
+Saya mengembangkan aplikasi web untuk mengelola tugas, dokumen, dan data operasional. Di proyek-proyek ini, saya mengerjakan antarmuka responsif, autentikasi akun, dan penyimpanan data.
 
 ## Proyek pilihan
 
-### MisiKu
+- **MisiKu** — Dashboard produktivitas untuk tugas, misi berulang, dan riwayat progres. Aplikasi ini memakai Next.js, MySQL, dan kalender Asia/Jakarta. [Halaman masuk MisiKu](https://misiku-topaz.vercel.app/login)
+- **PaperPilot** — Aplikasi untuk merangkum dokumen, mencatat tenggat, dan menyusun langkah tindak lanjut. [Repositori PaperPilot](https://github.com/AbiNugro/paperpilot)
+- **Accountory** — Dashboard inventaris akun, pelanggan, pesanan, dan masa aktif. [Repositori Accountory](https://github.com/AbiNugro/accountory)
 
-Dashboard produktivitas pribadi untuk mencatat tugas, menjalankan misi berulang, dan meninjau progres harian. MisiKu memakai autentikasi berbasis akun, penyimpanan MySQL, dan kalender Asia/Jakarta. [Halaman masuk MisiKu](https://misiku-topaz.vercel.app/login)
+<h2 align="center">Bahasa dan alat</h2>
 
-### PaperPilot
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,mysql,git,java&amp;perline=8" width="432" alt="TypeScript, JavaScript, React, Next.js, Tailwind CSS, MySQL, Git, dan Java">
+</p>
 
-Workspace untuk merangkum dokumen, mencatat tenggat, dan menyusun langkah tindak lanjut. [Kode PaperPilot](https://github.com/AbiNugro/paperpilot)
+---
 
-### Accountory
-
-Dashboard untuk mengelola inventaris akun, pelanggan, pesanan, dan masa aktif dalam satu tempat. [Kode Accountory](https://github.com/AbiNugro/accountory)
-
-## Teknologi
-
-TypeScript · React · Next.js · Tailwind CSS · MySQL
+<p align="center">
+  <img src="./assets/java-sunrise.webp" width="100%" alt="Ilustrasi pixel art matahari terbit di atas sawah dan pegunungan di Jawa">
+</p>
